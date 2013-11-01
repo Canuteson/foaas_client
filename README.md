@@ -2,6 +2,7 @@ foaas_client
 ============
 
 Python Helper Library for foaas (Fuck Off As A Service)
+http://foaas.herokuapp.com
 
 foaas_client is a Python Library for interacting with Fuck Off As A Service (foaas.herokuapp.com)
 
